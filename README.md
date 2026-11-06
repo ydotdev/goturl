@@ -1,2 +1,1 @@
-# goyot
-first TUI ( yes Yyt-dlp wrapper but in go ) 
+first TUI in GO ( yes, yet another URL shortener....) 
